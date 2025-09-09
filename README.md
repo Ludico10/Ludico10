@@ -1,6 +1,6 @@
 ## Hi there 👋
 You have reached my main page, where I post more or less large and complete projects.  
-🔭You can also see some of my developments as part of university lab work by visiting {the page](https://github.com/Labs-island)   
+🔭You can also see some of my developments as part of university lab work by visiting [the page](https://github.com/Labs-island)   
 🌱Currently, I am trying to develop in the field of machine learning.  
 To study deep learning architectures and libraries, I use notebooks, which I try to publish on [my Gist](https://gist.github.com/Ludico10)  
 I warn you that I leave some descriptions and comments in Russian, which I would correct if my projects are of interest to anyone!  
